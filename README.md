@@ -158,7 +158,7 @@ npm run dev
 
 Backend runs at:
 ```
-http://localhost:5000
+http://localhost:3000
 ```
 
 ---
@@ -170,11 +170,6 @@ cd ../Frontend
 npm install
 ```
 
-### (Optional) Create `.env` in `/Frontend`
-
-```env
-VITE_API_URL=http://localhost:5000/api
-```
 
 ---
 
@@ -186,7 +181,7 @@ npm run dev
 
 Frontend runs at:
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
